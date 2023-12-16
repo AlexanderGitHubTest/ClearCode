@@ -59,7 +59,7 @@ stream_line_decode - line_from_page_decoding
 pos_begin - position_beginning_text
 # Позиция начала текста в строке
 
-pos_end - position_beginning_text
+pos_end - position_end_text
 # Позиция конца текста в строке (скобки после текста)
 
 pos_double_slash - position_double-slash_in_text
